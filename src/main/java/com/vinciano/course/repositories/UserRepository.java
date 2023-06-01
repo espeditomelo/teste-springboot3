@@ -5,7 +5,4 @@ import org.springframework.data.jpa.repository.support.JpaRepositoryImplementati
 import com.vinciano.course.entities.User;
 
 public interface UserRepository extends JpaRepositoryImplementation<User, Long>{
-	
-	
-
 }
